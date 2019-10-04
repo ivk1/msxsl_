@@ -14,8 +14,9 @@ Following changes were made:
 - Added total time calculation in ms (-t option)
 - Adjusted messages.mc accordingly
 
-Timing comparison
-=================
+Timing/performance comparison
+=============================
+A 13,4 MB XML file and a 15 KB XSL file have been used for performance measurement.
 
 Original msxsl.exe
 ------------------
