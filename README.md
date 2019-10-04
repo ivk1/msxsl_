@@ -19,23 +19,23 @@ Timing comparison
 
 Original msxsl.exe
 ------------------
-msxsl.exe test.xml test.xslt -t -o xx.html
-Microsoft (R) XSLT Processor Version 4.0
+msxsl.exe test.xml test.xslt -t -o xx.html  
+Microsoft (R) XSLT Processor Version 4.0  
 
-Source document load time:     1188 milliseconds
-Stylesheet document load time: 1.319 milliseconds
-Stylesheet compile time:       .866 milliseconds
-Stylesheet execution time:     446.8 milliseconds
-                  (Total time: *1637* ms)
+Source document load time:     1188 milliseconds  
+Stylesheet document load time: 1.319 milliseconds  
+Stylesheet compile time:       .866 milliseconds  
+Stylesheet execution time:     446.8 milliseconds  
+                  (Total time: *1637* ms)  
 
 64-bit msxsl_.exe
 -----------------
-msxsl_.exe test.xml test.xslt -t -o xx.html
-Microsoft (R) XSLT Processor Version 6.0
+msxsl_.exe test.xml test.xslt -t -o xx.html  
+Microsoft (R) XSLT Processor Version 6.0  
 
-Source document load time:     923.4 milliseconds
-Stylesheet document load time: 1.017 milliseconds
-Stylesheet compile time:       .653 milliseconds
-Stylesheet execution time:     362.3 milliseconds
-                   Total time: *1287* milliseconds
+Source document load time:     923.4 milliseconds  
+Stylesheet document load time: 1.017 milliseconds  
+Stylesheet compile time:       .653 milliseconds  
+Stylesheet execution time:     362.3 milliseconds  
+                   Total time: *1287* milliseconds  
                    
