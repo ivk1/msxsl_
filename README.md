@@ -19,7 +19,7 @@ Timing comparison
 
 Original msxsl.exe
 ------------------
-msxsl.exe test.xml test.xslt -t -o test.html
+msxsl.exe test.xml test.xslt -t -o xx.html
 Microsoft (R) XSLT Processor Version 4.0
 
 Source document load time:     1188 milliseconds
